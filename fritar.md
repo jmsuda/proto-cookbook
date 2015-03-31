@@ -15,4 +15,5 @@
 
 ##Como fritar ovo
 1. Aqueça o óleo
-
+2. Adicione o ovo
+3. Com uma colher, vá colocando o óleo sobre o ovo até o ponto desejado
